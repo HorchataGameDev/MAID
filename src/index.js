@@ -155,18 +155,7 @@ async function leerMensaje(m){
             //comando 'orden'
             else if(c[0]=="orden"){
 
-                m.channel.send(`¡Por supuesto! Aquí tienes toda la información sobre la orden resumida: 
-                                    **La orden de los agregados, a veces acortado a 'agr', es la figura de autoridad máxima del plano.
-                                    Consta de 4 miembros o 'agregados', ni uno más ni uno menos. Los miembros de la orden lo son desde su nacimiento y nacen sólo cuando muere uno de los 4 agregados anteriores. Los agregados nacen en familias de todo tipo, en cualquier lugar del plano y son, a simple vista, indistinguibles del resto de personas.
-                                    Las historias describen a los agregados como luchadores e intelectuales, inmunes a cualquier tipo de ataque de personas externas a la orden y mucho más longevos que cualquier humano.
-                                    Los propósitos de la orden eran los siguientes:
-                                        - Mantener la paz y la unidad entre los pueblos.
-                                        - Buscar, encontrar y formar a los nuevos agregados.
-                                        - Esperar el regreso del legendario Ciujsavant y servirle en su misión.
-                                    La relación de la orden con la población general era de admiración y respeto. Los agregados eran recibidos con reverencia en todos los pueblos del plano y ellos trabajaban duramente para asegurar el bienestar de dichos pueblos.
-                                    La orden de los agregados tenía su sede antiguamente en La capital y operó durante la mayor parte de la era antigua, en una época caracterizada por la estabilidad y la paz. Fue disuelta en algún momento posterior a la última intervención cuando, por motivos que se han perdido en el tiempo, los agregados dejaron de nacer.
-                                    La gran mayoría de esta información proviene de antiguas leyendas y cantares, por lo que no deberían leerse como hechos irrefutables y están abiertos a la interpretación.**
-                                    Espero que esta información te sea clara y útil.`);
+                m.channel.send(`Se ha deshabilitado este comando conforme a las normas de confidencialidad de la orden. Disculpa las molestias.`);
             }
 
 
